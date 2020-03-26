@@ -1,0 +1,38 @@
+{
+  "name": "la-cosa-nostra",
+  "description": "A Mafia bot designed to run in Discord - beware the traitors and the lies!",
+  "update-name": "Foxjoaquim",
+  "version": "4.1.5",
+  "main": "foxorchid/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chokyotager/La-Cosa-Nostra"
+  },
+  "keywords": [
+    "Mafia",
+    "Werewolf",
+    "Discord",
+    "Discord-bot",
+    "Games",
+    "Fun"
+  ],
+  "author": "ChocoParrot",
+  "license": "https://github.com/Chokyotager/La-Cosa-Nostra/blob/master/LICENSE",
+  "bugs": {
+    "url": "https://github.com/Chokyotager/La-Cosa-Nostra/issues"
+  },
+  "homepage": "https://github.com/Chokyotager/La-Cosa-Nostra",
+  "dependencies": {
+    "discord.js": "~11.5.0",
+    "request": "~2.88.0",
+    "request-promise": "~4.2.5",
+    "semver": "~7.1.1"
+  },
+  "engines": {
+    "node": ">=10.15.0"
+  },
+  "engineStrict": true
+}
